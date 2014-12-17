@@ -19,9 +19,9 @@
 # 
 
 AC_PREREQ(2.52)
-AC_INIT(hsetroot, 1.0.2, hyriand@thegraveyard.org)
+AC_INIT([hsetroot], [1.0.2], [hyriand@thegraveyard.org])
 AC_CONFIG_AUX_DIR(config)
-AM_INIT_AUTOMAKE(hsetroot, 1.0.2)
+AM_INIT_AUTOMAKE()
 AM_MAINTAINER_MODE
 
 # Checks for programs.
